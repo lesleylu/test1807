@@ -1,0 +1,26 @@
+/* pages/publish/publish.wxss */
+.row{
+  display: flex;
+  border-bottom: 1px solid gray;
+  line-height: 80rpx;
+}
+.row label{
+  text-align: center;
+  line-height: 80rpx;
+  width: 240rpx;
+}
+.row input{
+ margin-top:15rpx;
+}
+button{
+  background: orangered;
+  margin:0 10rpx;
+  border-radius: 20rpx;
+}
+.buy{
+  padding-left:40rpx;
+}
+.tell{
+  margin-left:-40rpx;
+}
+
